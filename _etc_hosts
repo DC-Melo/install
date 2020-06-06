@@ -1,0 +1,15 @@
+127.0.0.1	localhost
+127.0.1.1	dc-HP-ProBook-440-G6
+127.0.1.1	wtdclaptop
+10.1.21.240	wtwebserver
+10.1.51.51	wtdcserver
+106.14.166.241	aliyun
+
+
+
+# The following lines are desirable for IPv6 capable hosts
+::1     ip6-localhost ip6-loopback
+fe00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
